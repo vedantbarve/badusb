@@ -11,8 +11,8 @@ import (
 )
 
 const ipAddr = "192.168.29.120" // IP address of the server.
-const socketPort = "9999"       // Port address of the socket server.
-const httpPort = "9998"         // Port address of the http server.
+const socketPort = "8000"       // Port address of the socket server.
+const httpPort = "55555"         // Port address of the http server.
 
 // Function to host the Socket Server on {socketPort}.
 // Dispatched as a goroutine by the main function.
