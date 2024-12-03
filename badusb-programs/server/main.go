@@ -10,7 +10,7 @@ import (
 	"time"
 )
 
-const ipAddr = "192.168.29.120" // IP address of the server.
+const ipAddr = "10.10.15.177" // IP address of the server.
 const socketPort = "8000"       // Port address of the socket server.
 const httpPort = "55555"         // Port address of the http server.
 
