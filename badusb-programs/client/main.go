@@ -10,7 +10,7 @@ import (
 )
 
 const ipAddr = "192.168.29.120" // IP address of the server.
-const socketPort = "9999"       // Port address of the socket server.
+const socketPort = "55555"       // Port address of the socket server.
 
 var path string = ""
 
