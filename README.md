@@ -56,7 +56,7 @@ This project can be made dynamic by adding payloads for operating systems other 
 
 ![image-1](https://github.com/vedantbarve/BadUSB/blob/master/assets/504d2812-3e31-429c-a163-e281aa5cedb9.jpeg)
 
-![video-1](https://github.com/vedantbarve/BadUSB/blob/master/assets/bb3333ab-b4e2-4a25-af28-9a1edc2237c5.mov)
+[video-1](https://github.com/vedantbarve/BadUSB/blob/master/assets/bb3333ab-b4e2-4a25-af28-9a1edc2237c5.mov)
 ## Contact me
 
 Please feel free to contact me via the email given below for any doubts. I am always open for any sort of constructive criticism.
