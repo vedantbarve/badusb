@@ -19,7 +19,6 @@ In this project, I have used Attiny85 as the microcontroller of choice as it is 
 | ------- | --------------- | ------------------------------------------------------------------------------------------------------- |
 | 1.      | badusb-script   | The script that runs when the USB is inserted into the victim's machine.                                |
 | 2.      | badusb-programs | The payloads written in GO that establish the reverse-shell connection from the victim to the attacker. |
-| 3.      | pcb             | The PCB design for the BadSUB                                                                           |
 
 ## Motivation
 
