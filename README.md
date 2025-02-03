@@ -52,6 +52,11 @@ After the USB rubber ducky is inserted into the victim's machine, following step
 
 This project can be made dynamic by adding payloads for operating systems other than windows. We can send the OS data from the victim to the attacker first, so that the HTTP server will respond with appropriate payload.
 
+## Images
+
+![image-1](https://github.com/vedantbarve/BadUSB/blob/master/assets/504d2812-3e31-429c-a163-e281aa5cedb9.jpeg)
+
+![video-1](https://github.com/vedantbarve/BadUSB/blob/master/assets/bb3333ab-b4e2-4a25-af28-9a1edc2237c5.mov)
 ## Contact me
 
 Please feel free to contact me via the email given below for any doubts. I am always open for any sort of constructive criticism.
